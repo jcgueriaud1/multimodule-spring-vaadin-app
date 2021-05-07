@@ -31,8 +31,8 @@ import com.vaadin.flow.i18n.LocaleChangeObserver;
 import com.vaadin.flow.router.Route;
 import com.vaadin.flow.router.RouterLink;
 
-@CssImport("global.css")
-@CssImport("module.css")
+@CssImport("./global.css")
+@CssImport("./module.css")
 @Route
 public class MainView extends VerticalLayout implements LocaleChangeObserver {
 
