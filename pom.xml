@@ -12,7 +12,7 @@
         <maven.compiler.source>${java.version}</maven.compiler.source>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.target>${java.version}</maven.compiler.target>
-        <vaadin.version>14.5.4</vaadin.version>
+        <vaadin.version>14.7.1</vaadin.version>
     </properties>
     <modules>
         <module>ui-module</module>
