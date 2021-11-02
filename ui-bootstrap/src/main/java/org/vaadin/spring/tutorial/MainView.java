@@ -18,10 +18,7 @@ package org.vaadin.spring.tutorial;
 import com.vaadin.flow.component.html.H1;
 import com.vaadin.flow.component.orderedlayout.VerticalLayout;
 import com.vaadin.flow.router.Route;
-import com.vaadin.flow.router.RouterLink;
-import com.vaadin.flow.theme.Theme;
 
-@Theme(themeFolder = "reusable-theme")
 //@CssImport("global.css")
 //@CssImport("module.css")
 @Route

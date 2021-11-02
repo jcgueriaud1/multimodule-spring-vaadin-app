@@ -9,3 +9,8 @@ body {
     background-image: url("./img/bg.jpg");
     font-family: "Ostrich";
 }
+
+
+h1 {
+    color: red;
+}
