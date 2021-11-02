@@ -16,7 +16,7 @@
     </parent>
 
     <properties>
-        <vaadin.version>14.4.5</vaadin.version>
+        <vaadin.version>14.7.3</vaadin.version>
     </properties>
 
     <pluginRepositories>
@@ -59,7 +59,7 @@
 
         <dependency>
             <groupId>org.vaadin.spring</groupId>
-            <artifactId>ui-module</artifactId>
+            <artifactId>custom-theme</artifactId>
             <version>1.0.0-SNAPSHOT</version>
         </dependency>
 

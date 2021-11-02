@@ -7,7 +7,7 @@
     <name>Spring Flow examples</name>
     <version>1.0.0-SNAPSHOT</version>
     <modules>
-        <module>ui-module</module>
+        <module>custom-theme</module>
         <module>ui-bootstrap</module>
     </modules>
     <packaging>pom</packaging>
