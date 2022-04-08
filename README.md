@@ -7,6 +7,8 @@ For example if you change module.css it should be automatically reflected.
 
 ## Running the project from your IDE
 
-Run `mvn package` in ui-bootstrap directory.
+Run `mvn package` in the root directory.
 
 Navigate to the `org.vaadin.spring.tutorial.TutorialApplication` class and run it as a Java application.
+
+Or run the ui-bootstrap module.
